@@ -1,0 +1,13 @@
+pip install PyQt5 : Comando para Instalar as dependências do sistemas de telas que iremos criar.
+
+pip install pyqt5-tools : Estamos de fato instalando o sistema de criação de telas
+
+C:\Users\nomedousuario\AppData\Local\Programs\Python\Python310\Lib
+
+o nome do usuário é onde foi baixado o programa. 
+entre na pasta : C:\Users\Flavia\AppData\Local\Programs\Python\Python310\Lib\site-packages\qt5_applications\Qt\bin
+
+
+Para inserir Campos de textos você deve usar as labels que estão do lado esquerdo no Display Widgets e para inserir campos de textos você deve usar o Line Edit que está Input Widgets
+
+Para inserir botões use em Buttons o push Button
